@@ -92,15 +92,15 @@ Day 2: 5 problems
    git clone https://github.com/YOUR_USERNAME/coding-tracker.git
 ````
 
-* Or download ZIP and extract the folder.
+ Or download ZIP and extract the folder.
 
-3. **Navigate to the project folder** in terminal/command prompt:
+3. Navigate to the project folder in terminal/command prompt:
 
 ```bash
 cd coding-tracker
 ```
 
-4. **Run the program:**
+4. Run the program:
 
 ```bash
 python main.py
@@ -110,7 +110,7 @@ python main.py
 
 ---
 
-## File Structure
+File Structure
 
 ```
 coding-tracker/
@@ -122,52 +122,47 @@ coding-tracker/
 
 ---
 
-## Why I Built This
+Why I Built This
 
-As a student in **CSE AI & ML**, I realized it is **easy to lose track of coding practice**, which is crucial for skill development.
-I wanted a **simple tool that helps me and others track coding consistently**, understand progress trends, and maintain motivation over time.
+As a student in CSE AI & ML, I realized it is easy to lose track of coding practice, which is crucial for skill development.
+I wanted a simple tool that helps me and others track coding consistently, understand progress trends, and maintain motivation over time.
 
-By building this project, I also **practiced file handling, CLI design, and logical thinking** in Python.
-
----
-
-## Challenges Faced
-
-* Designing a **simple menu system** that is user-friendly for beginners
-* Handling **invalid inputs** (like text instead of numbers)
-* Implementing the **streak calculation logic** correctly
-* Ensuring **persistent data storage** with `data.txt`
+By building this project, I also practiced file handling, CLI design, and logical thinking in Python.
 
 ---
 
-## What I Learned
+Challenges Faced
 
-* Basics of **Python file handling** (reading/writing data)
-* How to **structure a small project** professionally
+* Designing a simple menu system that is user-friendly for beginners
+* Handling invalid inputs (like text instead of numbers)
+* Implementing the streak calculation logic correctly
+* Ensuring persistent data storage with `data.txt`
+
+---
+
+What I Learned
+
+* Basics of Python file handling (reading/writing data)
+* How to structure a small project professionally
 * Command-line interface design principles
-* Using **GitHub for version control** and project submission
-* The importance of **tracking progress for habit building**
+* Using GitHub for version control and project submission
+* The importance of tracking progress for habit building
 
 ---
 
-## Future Improvements
+Future Improvements
 
-* Add **graphs** to visualize daily/weekly progress
-* Allow users to **edit or delete past entries**
-* Create a **web-based version** with more interactive features
-* Add **notifications or reminders** to encourage coding daily
-
----
-
-## Conclusion
-
-This project is a **small but meaningful tool** that applies programming concepts learned in the course to solve a real problem: staying consistent with coding.
-It shows how **simple automation** can make a practical difference in daily habits and learning outcomes.
+* Add graphs to visualize daily/weekly progress
+* Allow users to edit or delete past entries
+* Create a web-based version with more interactive features
+* Add notifications or reminders to encourage coding daily
 
 ---
 
-**Enjoy tracking your coding journey! 🚀**
- 
+Conclusion
 
-Do you want me to do that next?
-```
+This project is a small but meaningful tool that applies programming concepts learned in the course to solve a real problem: staying consistent with coding.
+It shows how simple automation can make a practical difference in daily habits and learning outcomes.
+
+---
+Enjoy tracking your coding journey! 
